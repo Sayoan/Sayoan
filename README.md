@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Sayoan 👋 
 
-<!--
-**Sayoan/Sayoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## I'm a Husband, QA Lead, Triplet and Teacher!!
+
+- 🔭 Robotic entusiast
+- 🖖 Quality Assurance curious
+- 👨‍💻 I have a degree in Computer Science by IFSULDEMINAS
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking to collaborate with other content creators
+- ⚡ Fun fact: I’m a triplet 🤣
+
+
+Resume
+- 😻 I act as Sr QA, Quality Leader and Chapter Leader supporting the implementation of automated tests from its inception through the creation of automated test scenarios, implementation and automated test code, and deployment through the creation of automated test pipelines. Leading quality teams and seeking measures for continuous improvement have always been my focus. I feel very comfortable with the DevOps environment and application monitoring (APM).
+
